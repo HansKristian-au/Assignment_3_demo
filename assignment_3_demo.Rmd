@@ -38,24 +38,34 @@ When you click the **Knit** button a document will be generated that includes bo
 
 ```
 
+```{r}
+## transforming data if necessary
+```
 
-###running a one-way anove test
+
+
+###running a one-way anova test
 
 ```{r}
-#anova
+#anova or Kruskal-Wallis test
 ```
 
 
 ###possible posthoc analysis
 
 ```{r}
-##family wise t-tests
+##multiple t-tests
 
-
+##FWE or bonferroni correction
 
 
 ```
 
-###concluding report
+###concluding report of results
+
+```{r}
+#fancy graphs showing our results
+```
+
 
 
